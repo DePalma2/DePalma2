@@ -7,8 +7,9 @@
 - 📫 How to reach me: ... [My LinkedIn](https://www.linkedin.com/in/lucasdepalma)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... The true, I do not have idea haha😂.
-
 - My Stats 📊📈📉
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DePalma2&show_icons=true&theme=radical)
 
 
