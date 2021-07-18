@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ... The true, I do not have idea haha😂.
 
 
-<img src"![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<img src"![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DePalma2&show_icons=true&theme=radical)
 ">
 
 
