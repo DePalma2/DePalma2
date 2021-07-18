@@ -9,6 +9,6 @@
 - ⚡ Fun fact: ... The true, I do not have idea haha😂.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDePalma2=anuraghazra&show_icons=true&theme=radical)
+<img src"![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDePalma2=anuraghazra&show_icons=true&theme=radical)">
 
 
