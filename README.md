@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Vue.js and Java
 - 👯 I’m looking to collaborate on ... New projects that use HTML, CSS , JavaScript and some Framework
 - 💬 Ask me about ... Any type of topic
-- 📫 How to reach me: ... [](https://image.flaticon.com/icons/png/512/174/174857.png)(https://www.linkedin.com/in/lucasdepalma/)
+- 📫 How to reach me: ... [https://image.flaticon.com/icons/png/512/174/174857.png](https://www.linkedin.com/in/lucasdepalma/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... The true, I do not have idea haha😂.
 - My Stats 📊📈📉
