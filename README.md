@@ -1,4 +1,4 @@
-### Hi, I'm Lucas De Palma, Systems Analyst Student 👋
+### Hi, I'm Lucas De Palma 👋
 
 - 📓 I'm currently study... Systems Analyst
 - 🌱 I’m currently learning ... Vue.js and Java
