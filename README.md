@@ -1,7 +1,7 @@
 ### Hi, I'm Lucas De Palma 👋
 
 - 📓 I'm currently study Systems Analyst
-- 🌱 I’m currently learning Vue.js and Java
+- 🌱 I’m currently learning Java, React JS and PHP
 - 👯 I’m looking to collaborate on  New projects that use HTML, CSS , JavaScript and some Framework
 - 💬 Ask me about  Any type of topic
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/lucasdepalma/)
