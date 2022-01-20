@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on  New projects that use HTML, CSS , JavaScript and some Framework
 - 💬 Ask me about  Any type of topic
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/lucasdepalma/)
-- ⚡ Fun fact: The true, I do not have idea haha😂.
 ##
  
 <div> 
