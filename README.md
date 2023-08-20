@@ -1,6 +1,10 @@
 # 💫 About Me:
-📓 I'm currently study Systems Analyst<br>🌱 I’m currently learning Java, React JS<br>👯 I’m looking to collaborate on New projects that use HTML, CSS , JavaScript and some Framework<br>💬 Ask me about Any type of topic
+Hi, I’m Lucas De Palma!
 
+Systems Analyst student with passion for Back-End and Front-End development.
+My experience in real projects and my current role as System Operator have given me a comprehensive vision of technology.
+Passionate about the DevOps world and ready to dive into challenging large scale projects.
+I look for opportunities to apply my skills, learn without limits and grow at the intersection of technology and creativity!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasdepalma) 
